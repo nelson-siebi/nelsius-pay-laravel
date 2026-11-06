@@ -1,4 +1,4 @@
-﻿{
+{
     "name": "nelsius/nelsius-pay-laravel",
     "description": "The official Laravel package and Service Provider for Nelsius Pay API V2",
     "type": "library",
